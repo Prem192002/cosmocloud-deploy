@@ -55,7 +55,7 @@ git clone https://github.com/Prem192002/cosmocloud-deploy.git
 cd cosmocloud-deploy
 cd 'Helm Chart folder'
 ```
-
+### Make sure you are in "Helm Chart folder"
 ### Start Minikube:
 
 ```bash
