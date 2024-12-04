@@ -56,10 +56,10 @@ cd cosmocloud-deploy
 cd 'Helm Chart folder'
 ```
 ### Make sure you are in "Helm Chart folder"
-### Start Minikube:
+### Start Minikube, the driver is docekr in my case (Change it accordingly).
 
 ```bash
-minikube start
+minikube start --driver=docker
 ```
 
 ### Lint the chart for checks:
@@ -97,6 +97,8 @@ minikube ip
 Paste the IP followed by port in your browser and press Enter:
 
 Booyah! The application is all set and ready to go.
+### Output Screen
+
 
 ---
 
