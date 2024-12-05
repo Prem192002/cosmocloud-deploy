@@ -99,6 +99,7 @@ Paste the IP followed by port in your browser and press Enter:
 Booyah! The application is all set and ready to go.
 ### Output Screen
 
+![Output Screen](https://cosmourl.s3.us-east-1.amazonaws.com/Output.jpg)
 
 ---
 
